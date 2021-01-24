@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="48329" started-at="2021-01-24T13:56:53 CET" finished-at="2021-01-24T13:57:41 CET">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="48329" started-at="2021-01-24T13:56:53 CET" finished-at="2021-01-24T13:57:41 CET">
+      <class name="com.guru99.tests.LoginPageTests">
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.guru99.tests.LoginPageTests@3a883ce7]" name="setup" is-config="true" duration-ms="11034" started-at="2021-01-24T13:56:53 CET" finished-at="2021-01-24T13:57:05 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyLogin(java.lang.String, java.lang.String)[pri:0, instance:com.guru99.tests.LoginPageTests@3a883ce7]" name="verifyLogin" duration-ms="4278" started-at="2021-01-24T13:57:05 CET" data-provider="getDataFromDatabase" finished-at="2021-01-24T13:57:09 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr303742]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pydApav]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:com.guru99.tests.LoginPageTests@3a883ce7]" name="cleanUp" is-config="true" duration-ms="645" started-at="2021-01-24T13:57:09 CET" finished-at="2021-01-24T13:57:09 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.guru99.tests.LoginPageTests@3a883ce7]" name="setup" is-config="true" duration-ms="10755" started-at="2021-01-24T13:57:09 CET" finished-at="2021-01-24T13:57:20 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyLogin(java.lang.String, java.lang.String)[pri:0, instance:com.guru99.tests.LoginPageTests@3a883ce7]" name="verifyLogin" duration-ms="4655" started-at="2021-01-24T13:57:20 CET" data-provider="getDataFromDatabase" finished-at="2021-01-24T13:57:25 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr303742]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pydApav]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:com.guru99.tests.LoginPageTests@3a883ce7]" name="cleanUp" is-config="true" duration-ms="631" started-at="2021-01-24T13:57:25 CET" finished-at="2021-01-24T13:57:25 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+        <test-method status="PASS" signature="setup(java.lang.String)[pri:0, instance:com.guru99.tests.LoginPageTests@3a883ce7]" name="setup" is-config="true" duration-ms="10709" started-at="2021-01-24T13:57:25 CET" finished-at="2021-01-24T13:57:36 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="verifyLogin(java.lang.String, java.lang.String)[pri:0, instance:com.guru99.tests.LoginPageTests@3a883ce7]" name="verifyLogin" duration-ms="4383" started-at="2021-01-24T13:57:36 CET" data-provider="getDataFromDatabase" finished-at="2021-01-24T13:57:41 CET">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[mngr303742]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pydApav]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyLogin -->
+        <test-method status="PASS" signature="cleanUp()[pri:0, instance:com.guru99.tests.LoginPageTests@3a883ce7]" name="cleanUp" is-config="true" duration-ms="631" started-at="2021-01-24T13:57:41 CET" finished-at="2021-01-24T13:57:41 CET">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cleanUp -->
+      </class> <!-- com.guru99.tests.LoginPageTests -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
